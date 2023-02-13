@@ -1,4 +1,4 @@
-# Time-Esries-Model
+# Time-series-Model
 Time Series Using SARIMAX Model
 
 
